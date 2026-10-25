@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://i.pinimg.com/736x/d3/fd/09/d3fd09d234163e9f21f3dbc93670e1e9.jpg" width="100%" alt="Pixel art coding cover"/>
-
-<br><br>
-
 <a href="https://github.com/manjulpndey"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" alt="GitHub"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/manjul-pandey17/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55" alt="LinkedIn"/></a>
