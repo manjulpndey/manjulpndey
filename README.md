@@ -1,3 +1,5 @@
+<div align="center">
+  
 <a href="https://github.com/manjulpndey"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" alt="GitHub"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/manjul-pandey17/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55" alt="LinkedIn"/></a>
@@ -7,7 +9,7 @@
 <a href="https://www.fiverr.com/manjulpandey"><img src="https://cdn.simpleicons.org/fiverr/1DBF73" width="55" alt="Fiverr"/></a>
 
 <br><br>
-
+</div>
 # Hey, I'm Manjul 👋
 
 ### AI/ML Enthusiast · Developer · Embedded Systems Explorer
